@@ -9,7 +9,7 @@
     👐안녕하세요 반갑습니다👐<br>
     제 이름은 최규호이고 머신러닝 및 데이터 분석 관련하여 공부하고 있습니다.<br>
    <br>
-   <a href="https://www.notion.so/Python-Code-0a745abe730c4b70be708a574b58fbb1">   
+   <a href="https://www.notion.so/ASAC-93670ca2187b446dabda1ed4748c73a3">   
       <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
    </a>
 <br>
