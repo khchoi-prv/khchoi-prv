@@ -18,32 +18,32 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>⚒️ Tech Stack ⚒️</Strong><br>
 </p>
 
 <p align="center" display="inline-block">
-    💡Language <br>
+    💡 Language <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 
 </p>
 <p align="center" display="inline-block">
-    💡DB <br>
+    💡 DB <br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
 </p>
 <p align="center" display="inline-block">
-    💡Data <br>
+    💡 Data <br>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/tableau-E97627?style=plastic&logo=tableau&logoColor=white">
 </p>
 <p align="center" display="inline-block">
-    💡Cowork Tools <br>
+    💡 Cowork Tools <br>
     <img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white">
 </p>
 
 <p align="center">
-    💡Used at least once
+    💡 Used at least once
 </p>
 <p align="center" display="inline-block">
   <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> -->
