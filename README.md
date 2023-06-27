@@ -67,20 +67,6 @@
 
 
 
-1. 간략한 자기소개
-
-2. 본인의 역량
-
-3. 관심분야 & 추후 진로 희망
-
-4. 해당 프로젝트를 통
-
-
-
-
-
-
-
 
 <!--
 **khchoi-prv/khchoi-prv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
